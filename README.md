@@ -1,13 +1,26 @@
-# Estudos - Algoritmos e Estrutura de dados
+# Estudos - Algoritmos e Estrutura de Dados
 
-### Algoritmos
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-1. [Sequencia de Fibonacci](/Algoritmos/fibonacci.js)
+## Algoritmos
 
-2. [Progressão Aritmética](/Algoritmos/progressaoAritmetica.js)
+1. Sequência de Fibonacci
+   - [Código](/Algoritmos/fibonacci.js)
 
-### Estrutura de dados
+2. Progressão Aritmética
+   - [Código](/Algoritmos/progressaoAritmetica.js)
 
-1. [Pilhas / Stack](/Estrutura%20de%20dados/pilha.js)
+3. Fatorial
+   - [Código](/Algoritmos/fatorial.js)
 
-2. [Filas / Queue](/Estrutura%20de%20dados/pilha.js)
+## Estrutura de Dados
+
+### 1. Array
+   - [Array](/Estrutura%20de%20dados/Array/array.js)
+   - [Métodos Array](/Estrutura%20de%20dados/Array/metodosArray.js)
+
+### 2. Pilhas / Stack
+   - [Pilhas](/Estrutura%20de%20dados/pilha.js)
+
+### 3. Filas / Queue
+   - [Filas](/Estrutura%20de%20dados/pilha.js)
