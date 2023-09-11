@@ -18,6 +18,8 @@
 ### 1. Array
    - [Array](/Estrutura%20de%20dados/Array/array.js)
    - [Métodos Array](/Estrutura%20de%20dados/Array/metodosArray.js)
+   - [Busca linear](/Estrutura%20de%20dados/Array/pesquisaLinear.js)
+   - [Busca binária](/Estrutura%20de%20dados/Array/pesquisaBinaria.js)
 
 ### 2. Pilhas / Stack
    - [Pilhas](/Estrutura%20de%20dados/pilha.js)
