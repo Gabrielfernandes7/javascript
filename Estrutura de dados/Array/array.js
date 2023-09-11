@@ -11,20 +11,22 @@ let primeiroElemento = meuArray[0];
 // Tamanho do array
 const tamanhoArr = meuArray.length;
 
+// Exibição
 // Iteração com array
 for (let i = 0; i < meuArray.length; i++) {
     console.log(`${meuArray[i]}`);
 }
 
+// Exibição
 meuArray.forEach(function (elemento) {
     console.log(`Meu array com forEach ${elemento}`);
 });
 
 // Modificações de arrays
+meuArray.unshift(0); // Adiciona um elemento no início
 meuArray.push(5); // Adiciona um elemento no final
 meuArray.pop(); // Remove o último elemento
 meuArray.shift(); // Remove o primeiro elemento
-meuArray.unshift(0); // Adiciona um elemento no início
 meuArray[1] = 10; // Modifica um elemento diretamente
 
 // Arrays multidimensionais ou matriz
