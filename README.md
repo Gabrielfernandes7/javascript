@@ -13,6 +13,12 @@
 3. Fatorial
    - [Código](/Algoritmos/fatorial.js)
 
+4. Bubblesort - 01
+   - [Código](/Algoritmos/bubblesort_01.js)
+
+5. Bubblesort - 02
+   - [Código](/Algoritmos/bubblesort_02.js)
+
 ## Estrutura de Dados
 
 ### 1. Array
