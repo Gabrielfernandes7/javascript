@@ -19,6 +19,9 @@
 5. Bubblesort - 02
    - [Código](/Algoritmos/bubblesort_02.js)
 
+6. Selectionsort
+   - [Código](/Algoritmos/selectsort.js)
+
 ## Estrutura de Dados
 
 ### 1. Array
